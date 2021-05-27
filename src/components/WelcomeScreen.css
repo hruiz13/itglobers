@@ -1,0 +1,13 @@
+.wContainer{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: 600;
+    height: 100%;
+    background-image: url("../images/map.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    animation: fadeIn;
+    animation-duration: 1s;
+}
+

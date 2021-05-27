@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e44666e5.chunk.css",
+    "main.js": "/static/js/main.eed8c994.chunk.js",
+    "main.js.map": "/static/js/main.eed8c994.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6d5c9b88.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6d5c9b88.js.map",
+    "static/css/2.a1596f27.chunk.css": "/static/css/2.a1596f27.chunk.css",
+    "static/js/2.e8e7d065.chunk.js": "/static/js/2.e8e7d065.chunk.js",
+    "static/js/2.e8e7d065.chunk.js.map": "/static/js/2.e8e7d065.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.e44666e5.chunk.css.map": "/static/css/main.e44666e5.chunk.css.map",
+    "static/js/2.e8e7d065.chunk.js.LICENSE.txt": "/static/js/2.e8e7d065.chunk.js.LICENSE.txt",
+    "static/media/FormScreen.css": "/static/media/age.cf18d2f3.svg",
+    "static/media/App.css": "/static/media/bg.d58b1959.svg",
+    "static/media/WelcomeScreen.css": "/static/media/map.97d224cf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d5c9b88.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.e8e7d065.chunk.js",
+    "static/css/main.e44666e5.chunk.css",
+    "static/js/main.eed8c994.chunk.js"
+  ]
+}
